@@ -7,6 +7,6 @@
 </ul>
 O layout é responsivo e utiliza grid e flexbox para organização. Ícones são usados para representar habilidades e informações de forma visual, e as fontes são personalizadas com Hubballi e Montserrat.
 
-Cv Arthur Lanzoni Macedo: <a href="https://cv-arthurlanzoni.netlify.app/">
+Link: <a href="https://cv-arthurlanzoni.netlify.app/">Cv Arthur Lanzoni Macedo
 
 </p>
